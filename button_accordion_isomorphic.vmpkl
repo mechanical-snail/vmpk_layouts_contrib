@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE keyboardmap>
+
+<!--
+Button accordion layout (isomorphic)
+
+From http://sourceforge.net/tracker/?func=detail&aid=2992498&group_id=236429&atid=1210216
+
+Author: Vladimir Zhirov (http://sourceforge.net/users/vvzh/)
+-->
+
+<keyboardmap version="1.0">
+	<mapping key="Q" note="0"/>
+	<mapping key="W" note="3"/>
+	<mapping key="E" note="6"/>
+	<mapping key="R" note="9"/>
+	<mapping key="T" note="12"/>
+	<mapping key="Y" note="15"/>
+	<mapping key="U" note="18"/>
+	<mapping key="I" note="21"/>
+	<mapping key="O" note="24"/>
+	<mapping key="P" note="27"/>
+	<mapping key="[" note="30"/>
+	<mapping key="]" note="32"/>
+	
+	<mapping key="A" note="1"/>
+	<mapping key="S" note="4"/>
+	<mapping key="D" note="7"/>
+	<mapping key="F" note="10"/>
+	<mapping key="G" note="13"/>
+	<mapping key="H" note="16"/>
+	<mapping key="J" note="19"/>
+	<mapping key="K" note="22"/>
+	<mapping key="L" note="25"/>
+	<mapping key=";" note="28"/>
+	<mapping key="'" note="31"/>
+	
+	<mapping key="Z" note="2"/>
+	<mapping key="X" note="5"/>
+	<mapping key="C" note="8"/>
+	<mapping key="V" note="11"/>
+	<mapping key="B" note="14"/>
+	<mapping key="N" note="17"/>
+	<mapping key="M" note="20"/>
+	<mapping key="," note="23"/>
+	<mapping key="." note="26"/>
+	<mapping key="/" note="29"/>
+</keyboardmap>
