@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rawkeyboardmap>
+
+<!--
+Wicki-Hayden isomorphic keyboard layout for Virtual MIDI Piano Keyboard (VMPK). See https://en.wikipedia.org/wiki/Wicki-Hayden_note_layout
+
+This is an expanded version using raw key-codes. It uses the 4 main keyboard rows (including the peripheral keys like Shift) as well as the function keys.
+
+Comments specify the corresponding keysym for the usual QWERTY layout. The 'v' key is C.
+
+Author: Mechanical snail
+-->
+
+<rawkeymap version="1.0">
+	<!-- Unfortunately the exact position of the function keys is not standardized. This assignment works OK for Thinkpad keyboards. -->
+	<mapping keycode="67" note="24"/><!-- F1 -->
+	<mapping keycode="68" note="26"/>
+	<mapping keycode="69" note="28"/>
+	<mapping keycode="70" note="30"/>
+	<mapping keycode="71" note="32"/>
+	<mapping keycode="72" note="34"/>
+	<mapping keycode="73" note="36"/>
+	<mapping keycode="74" note="38"/>
+	<mapping keycode="75" note="40"/>
+	<mapping keycode="76" note="42"/>
+	<mapping keycode="95" note="44"/>
+	<mapping keycode="96" note="46"/><!-- F12 -->
+	<mapping keycode="119" note="48"/><!-- delete -->
+	<mapping keycode="115" note="50"/><!-- end -->
+	<mapping keycode="117" note="52"/><!-- PgDn -->
+
+	<mapping keycode="49" note="19"/><!-- ` -->
+	<mapping keycode="10" note="21"/><!-- 1 -->
+	<mapping keycode="11" note="23"/>
+	<mapping keycode="12" note="25"/>
+	<mapping keycode="13" note="27"/>
+	<mapping keycode="14" note="29"/>
+	<mapping keycode="15" note="31"/>
+	<mapping keycode="16" note="33"/>
+	<mapping keycode="17" note="35"/>
+	<mapping keycode="18" note="37"/>
+	<mapping keycode="19" note="39"/><!-- 0 -->
+	<mapping keycode="20" note="41"/><!-- - -->
+	<mapping keycode="21" note="43"/><!-- = -->
+	<mapping keycode="22" note="45"/><!-- backspace -->
+	
+	<mapping keycode="23" note="14"/><!-- tab -->
+	<mapping keycode="24" note="16"/><!-- Q -->
+	<mapping keycode="25" note="18"/>
+	<mapping keycode="26" note="20"/>
+	<mapping keycode="27" note="22"/>
+	<mapping keycode="28" note="24"/>
+	<mapping keycode="29" note="26"/>
+	<mapping keycode="30" note="28"/>
+	<mapping keycode="31" note="30"/>
+	<mapping keycode="32" note="32"/>
+	<mapping keycode="33" note="34"/><!-- P -->
+	<mapping keycode="34" note="36"/><!-- [ -->
+	<mapping keycode="35" note="38"/><!-- ] -->
+	<mapping keycode="51" note="40"/><!-- \ -->
+	
+	<mapping keycode="66" note="9"/><!-- caps lock -->
+	<mapping keycode="38" note="11"/><!-- A -->
+	<mapping keycode="39" note="13"/>
+	<mapping keycode="40" note="15"/>
+	<mapping keycode="41" note="17"/>
+	<mapping keycode="42" note="19"/>
+	<mapping keycode="43" note="21"/>
+	<mapping keycode="44" note="23"/>
+	<mapping keycode="45" note="25"/>
+	<mapping keycode="46" note="27"/><!-- L -->
+	<mapping keycode="47" note="29"/><!-- ; -->
+	<mapping keycode="48" note="31"/><!-- ' -->
+	<mapping keycode="36" note="33"/><!-- enter -->
+	
+	<mapping keycode="50" note="4"/><!-- left shift -->
+	<mapping keycode="52" note="6"/><!-- Z -->
+	<mapping keycode="53" note="8"/>
+	<mapping keycode="54" note="10"/>
+	<mapping keycode="55" note="12"/>
+	<mapping keycode="56" note="14"/>
+	<mapping keycode="57" note="16"/>
+	<mapping keycode="58" note="18"/><!-- M -->
+	<mapping keycode="59" note="20"/><!-- , -->
+	<mapping keycode="60" note="22"/><!-- . -->
+	<mapping keycode="61" note="24"/><!-- / -->
+	<mapping keycode="62" note="26"/><!-- right shift -->
+	
+	<mapping keycode="65" note="0"/><!-- space -->
+</rawkeymap>
