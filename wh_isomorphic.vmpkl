@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE keyboardmap>
+
+<!--
+Wicki-Hayden isomorphic keyboard layout for Virtual MIDI Piano Keyboard (VMPK). See https://en.wikipedia.org/wiki/Wicki-Hayden_note_layout
+
+This is a keysym-based version with a reduced range.
+
+The 'w' key is C.
+
+Author: Mechanical snail
+-->
+
+<keyboardmap version="1.0">
+	<mapping key="`" note="13"/>
+	<mapping key="1" note="15"/>
+	<mapping key="2" note="17"/>
+	<mapping key="3" note="19"/>
+	<mapping key="4" note="21"/>
+	<mapping key="5" note="23"/>
+	<mapping key="6" note="25"/>
+	<mapping key="7" note="27"/>
+	<mapping key="8" note="29"/>
+	<mapping key="9" note="31"/>
+	<mapping key="0" note="33"/>
+	<mapping key="-" note="35"/>
+	<mapping key="=" note="37"/>
+	
+	<mapping key="Q" note="10"/>
+	<mapping key="W" note="12"/>
+	<mapping key="E" note="14"/>
+	<mapping key="R" note="16"/>
+	<mapping key="T" note="18"/>
+	<mapping key="Y" note="20"/>
+	<mapping key="U" note="22"/>
+	<mapping key="I" note="24"/>
+	<mapping key="O" note="26"/>
+	<mapping key="P" note="28"/>
+	<mapping key="[" note="30"/>
+	<mapping key="]" note="32"/>
+	<mapping key="\" note="34"/>
+	
+	<mapping key="A" note="5"/>
+	<mapping key="S" note="7"/>
+	<mapping key="D" note="9"/>
+	<mapping key="F" note="11"/>
+	<mapping key="G" note="13"/>
+	<mapping key="H" note="15"/>
+	<mapping key="J" note="17"/>
+	<mapping key="K" note="19"/>
+	<mapping key="L" note="21"/>
+	<mapping key=";" note="23"/>
+	<mapping key="'" note="25"/>
+	
+	<mapping key="Z" note="0"/>
+	<mapping key="X" note="2"/>
+	<mapping key="C" note="4"/>
+	<mapping key="V" note="6"/>
+	<mapping key="B" note="8"/>
+	<mapping key="N" note="10"/>
+	<mapping key="M" note="12"/>
+	<mapping key="," note="14"/>
+	<mapping key="." note="16"/>
+	<mapping key="/" note="18"/>
+</keyboardmap>
