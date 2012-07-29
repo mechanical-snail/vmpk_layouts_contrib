@@ -6,7 +6,9 @@ Wicki-Hayden isomorphic keyboard layout for Virtual MIDI Piano Keyboard (VMPK). 
 
 This is an expanded version using raw key-codes. It uses the 4 main keyboard rows (including the peripheral keys like Shift) as well as the function keys.
 
-Comments specify the corresponding keysym for the usual QWERTY layout. The 'v' key is C.
+Comments specify the corresponding keysym for the usual QWERTY layout.
+
+The 'v' key is C. As a mnemonic, the 'g' key is G. Specially, the spacebar is the G one octave below this (rationale: extends the lower range all semitones above which are playable, and particularly this allows playing common C major pieces that go down to G in the lowest octave of the keyboard).
 
 Author: Mechanical snail
 -->
@@ -86,5 +88,5 @@ Author: Mechanical snail
 	<mapping keycode="61" note="24"/><!-- / -->
 	<mapping keycode="62" note="26"/><!-- right shift -->
 	
-	<mapping keycode="65" note="0"/><!-- space -->
+	<mapping keycode="65" note="7"/><!-- space (special) -->
 </rawkeymap>
