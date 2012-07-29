@@ -4,7 +4,7 @@
 <!--
 Wicki-Hayden isomorphic keyboard layout for Virtual MIDI Piano Keyboard (VMPK). See https://en.wikipedia.org/wiki/Wicki-Hayden_note_layout
 
-This is an expanded version using raw key-codes. It uses the 4 main keyboard rows (including the peripheral keys like Shift) as well as the function keys.
+This is an expanded version using raw key-codes for Linux. It uses the 4 main keyboard rows (including the peripheral keys like Shift) as well as the function keys.
 
 Comments specify the corresponding keysym for the usual QWERTY layout.
 

@@ -10,6 +10,9 @@ This is an unofficial repository for user-contributed keyboard layouts for [Virt
 
 NOTE: As of this writing, [the mainline VMPK has a bug that causes it to choke on XML comments in the input](http://sourceforge.net/tracker/?func=detail&aid=3549819&group_id=236429&atid=1100307), so to use these layouts, use a version with [the fix](https://github.com/mechanical-snail/vmpk/tree/fix_xml_parsing) applied.
 
+## OS and keyboard support
+VMPK raw keyboards are currently specific to OS, and non-raw layouts are specific to the current keyboard layout selected in the OS. If you get one of these layouts working on another OS/keyboard, it will be appreciated if you submit it here as a new file.
+
 ## To contribute a fix or a new layout
 Branch and send a pull request.
 

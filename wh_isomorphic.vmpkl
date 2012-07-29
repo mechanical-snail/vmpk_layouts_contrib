@@ -4,7 +4,7 @@
 <!--
 Wicki-Hayden isomorphic keyboard layout for Virtual MIDI Piano Keyboard (VMPK). See https://en.wikipedia.org/wiki/Wicki-Hayden_note_layout
 
-This is a keysym-based version with a reduced range.
+This is a keysym-based version with a reduced range. Intended for use with the QWERTY keyboard layout.
 
 The 'w' key is C.
 

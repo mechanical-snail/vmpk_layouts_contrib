@@ -2,7 +2,9 @@
 <!DOCTYPE keyboardmap>
 
 <!--
-Button accordion layout (isomorphic)
+Button accordion layout (isomorphic).
+
+This non-raw layout is for the QWERTY keyboard layout.
 
 From http://sourceforge.net/tracker/?func=detail&aid=2992498&group_id=236429&atid=1210216
 
